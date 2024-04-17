@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+input{
+  width: 100%;
+  background-color: lightgrey;
+}
+
+td.content {
+  text-align: left;
+}
+td.title{
+  font-weight: 600;
+}
