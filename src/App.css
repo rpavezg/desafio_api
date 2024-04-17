@@ -4,6 +4,19 @@
   padding: 2rem;
   text-align: center;
 }
+.encabezado{
+  background-image: url("https://landportal.org/sites/landportal.org/files/styles/220heightmax/public/Screenshot%202022-06-06%20at%2020.47.14.png?itok=hZLQWGYp");
+  background-repeat: no-repeat;
+  height: 115px;
+  background-color: rgb(187, 39, 26) ;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+body{
+
+background-color: red;
+}
 input{
   width: 100%;
   background-color: lightgrey;

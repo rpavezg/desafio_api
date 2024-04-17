@@ -6,8 +6,10 @@ const App = () => {
 
   return (
     <>
+    <div className='encabezado'></div>
       <div className='container'>
-        <h2 className='pt-4'> Biblioteca del Congreso</h2>
+        
+        <h2 className='pt-4'>Feriados Legales de Chile</h2>
         <MiApi/>
       </div>
       
